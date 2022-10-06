@@ -12,7 +12,7 @@ body{
   
 }
 .nav{
-    height: 100px;
+    height: auto;
     width: 100%;
     background-color: black;
     color: white;
@@ -39,7 +39,7 @@ span{
     width: 10%;
 }
 .social>i{
-    margin-right: 25px;
+    margin-right: 10px;
 }
 .social>i:hover{
     opacity: 0.8;
@@ -132,11 +132,11 @@ li>a:hover{
 }
 
 .conpart {
-    width: 29%; 
+    width: 31%; 
     height: auto;
     display: inline-block;
     justify-content: space-around;
-    margin: 50px;
+    margin: 10px;
     border: 5px solid rgb(210, 255, 47);
     border-style:groove;
     border-radius: 10px;
