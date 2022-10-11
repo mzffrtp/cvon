@@ -1,4 +1,5 @@
-# cvon
-## see may digital cv
+# Online CV
+## See my digital cv
+### used fontawesome library in css styling
 
-![Screen Shot](MyDigitalCV.jpg)
+![](screen.gif)
